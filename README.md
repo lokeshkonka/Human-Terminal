@@ -1,3 +1,4 @@
+checking git
 # 🧠 Human Terminal
 
 **Human Terminal** is an emotion-powered fake terminal interface that blends creativity, poetry, and AI.  
