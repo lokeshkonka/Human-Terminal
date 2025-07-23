@@ -1,0 +1,20 @@
+{
+  "name": "human-terminal",
+  "version": "1.0.0",
+  "description": "project For my portfolio Website",
+  "homepage": "https://github.com/lokeshkonka/Human-Terminal#readme",
+  "bugs": {
+    "url": "https://github.com/lokeshkonka/Human-Terminal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshkonka/Human-Terminal.git"
+  },
+  "license": "ISC",
+  "author": "Lokesh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -72,6 +72,14 @@ Built with the idea that a terminal can be more than just code —
 ---
 
 ## 🧠 Folder Structure
+📂 server/           (Node.js & Express Backend)
+│   ├── config/        (Database connection, env variables)
+│   │   └── db.js
+│   ├── controllers/   (Logic for handling requests)
+│   ├── middleware/    (Auth checks, error handling)
+│   ├── models/        (Mongoose schemas)
+│   ├── routes/        (API endpoints)
+│   ├── server.js      (Main server entry point)
 
 /app
 └─ page.tsx // Main UI
