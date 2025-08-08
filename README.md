@@ -30,7 +30,7 @@ Built with the idea that a terminal can be more than just code —
 ---
 
 ## ⚙️ Features
-
+Other will be added soon
 ✅ Fake terminal interface with:
 - Blinking cursor
 - Typing effect
